@@ -19,20 +19,15 @@
 *I am a systematic and creative problem solver, with experience dealing with hardware and software issues in first- and second-line support as well as in busy hospitality situations. I have further honed this skill during my time at Makers, which emphasises a strict process-oriented approach to problem solving, whether in software debugging or wider design.*
 
 ## Projects
+
 | Project | Technologies Employed | Running at | Description  |
 | ---|---|---|---|  
 | DEPLOYMENT OF AWS INFRASTRUCTURE USING TERRAFORM | AWS,Terraform | [Github](https://lekhika13.github.io/awscloud/) | Here I have deployed a basic aws instance and services all using the terraform code. |
 | Beta-testing for Civo | Civo,Jenkins,Kubernetes | [Github](https://lekhika13.github.io/jenkins-on-civo/) | Here I have shown how to deploy a simple cluster on civo Kubernetes platform which is world’s first K3S deployment platform, it is really fast and simple. I have also deployed Jenkins on it. |
 | WordPress deployment | AWS,Terraform,Wordpress | [Github](https://lekhika13.github.io/wordpresshosting/) | Here I have deployed a static website using WordPress on aws using terraform. |
 
-
-| Project | Description | Technologies Employed | Running at |
-| ---|---|---|---|
-| [Das Zahlensender](https://twitter.com/daszahlensender) | Twitter bot that functions as a very mysterious and totally not conspiratorial numbers station to practice implementation of a Ruby app to Heroku. | Ruby, oAuth, Twitter API, Heroku | [Twitter](https://twitter.com/daszahlensender) |
-| [Acebook](https://github.com/kaihoffman/acebook-rails-template) | Two-week project at Makers Academy to really hone in Agile methodologies through the creation of a Facebook-like CRUD app. | Rails, RSpec, Devise, CodeClimate, Travis CI, Heroku | [Heroku](https://acebook-template.herokuapp.com/) | 
-| [Fashion Finder](https://github.com/rtfdm/fashion-finder) | Two-week Makers Academy final project, implementing an aspirational fashion e-commerce front-end | React, Firebase, Styled Components, Jest, Cypress, CodeClimate, Travis CI | [FirebaseApp](https://fashion-finder-prod.firebaseapp.com) 
-
 ## Education
+
 | Institutions | Course| Grades |
 | ---|---|---|
 | **Poornima University Bachelor of Technology** | BTech, Cloud Technology And Information Security (2017 - 2021) | 8.85 SGPA |
@@ -48,6 +43,7 @@
 - Google Cloud Platform Fundamentals: Core Infrastructure
 
 ## Experience
+
 | Institutions | Duration | Position| Work |
 | ---|---|---|---|
 | **Celebal Technologies** | July 2020 - Present | Intern | Managing Azure services. |
