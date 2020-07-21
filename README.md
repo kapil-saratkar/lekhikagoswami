@@ -1,6 +1,6 @@
 ## *LEKHIKA GOSWAMI*
 
-[SKILLS](https://github.com/lekhika13/lekhikagoswami/#skills) | [PROJECTS](https://github.com/lekhika13/lekhikagoswmi/#projects) | [EDUCATION](https://github.com/lekhika13/lekhikagoswami/#education) | [EXPERIENCE](https://lekhika13.github.io/lekhikagoswami/#experience)
+[SKILLS](#skills) | [PROJECTS](https://github.com/lekhika13/lekhikagoswmi/#Projects) | [EDUCATION](https://github.com/lekhika13/lekhikagoswami/#Education) | [EXPERIENCE](https://lekhika13.github.io/lekhikagoswami/#Experience)
 
 
 *Organized and motivated person able to apply time management and organizational skills in various environments. Seeking to obtain employment with a company that offers a positive atmosphere to learn and implement new skills and technologies for the betterment of the organization.  Proven ability to develop strong relationships across cultures and to provide decisive team leadership in a fast-paced environment. I am looking to work in a responsible and responsive organization with dynamic, exciting projects.* 
